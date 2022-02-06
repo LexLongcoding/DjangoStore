@@ -27,8 +27,8 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'zhv%265(q5u4f1k%l*pf2he!my@j=e6(652hg-o9*+yz+cco*e'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
-
+DEBUG = True
+# change debug to true, remove app name and leave as  [] to run on local server 
 ALLOWED_HOSTS = ['djangostore-lexlong.herokuapp.com/']
 
 
