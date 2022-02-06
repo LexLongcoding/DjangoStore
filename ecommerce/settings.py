@@ -29,7 +29,7 @@ SECRET_KEY = 'zhv%265(q5u4f1k%l*pf2he!my@j=e6(652hg-o9*+yz+cco*e'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['djangostore-lexlong.herokuapp.com']
+ALLOWED_HOSTS = ['djangostore-lexlong.herokuapp.com/']
 
 
 # Application definition
